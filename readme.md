@@ -1,4 +1,4 @@
-#  Real Life Dynamic Timer FIVE:M
+#  Real Life Dynamic Timer FIVE:M (1.0a)
 
 ## What it does ? / O que ele faz ?:
 
