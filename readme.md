@@ -8,7 +8,7 @@ This plugin sync's the time of the server with a timezone (default is -3) to all
 [PT-BR]
 O plugin sicroniza o tempo do servidor com um timezone (padrão é -3) para todos os jogadores e também adiciona atualização de climas dinamicamente.
 
-![alt text](https://i.imgur.com/EPUoIo5.jpg)
+![Dynamic Timer](https://i.imgur.com/EPUoIo5.jpg)
 
 ## Install Steps / Instalação: 
 
