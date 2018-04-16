@@ -13,10 +13,10 @@ O plugin sicroniza o tempo do servidor com um timezone (padrão é -3) para todo
 ## Install Steps / Instalação: 
 
 [EN-US]
-Easy: just download and place <b>"horario folder"</b>  on the resources folder of your server and then start it on server.cfg.
+Easy: just download and create a folder on the resources folder of your server (Ex: resources/horario). And start it on server.cfg.
 
 [PT-BR]
-Instalar é fácil, apenas baixe os arquivos e jogue a  <b>pasta horário</b> na pasta resources do seu servidor e starte ela pelo server.cfg
+Instalar é fácil, apenas baixe os arquivos crie uma nova pasta em resources na pasta do seu servidor (Ex: resources/horario). E starte ela pelo server.cfg
 
 ## Config:
 
@@ -27,5 +27,5 @@ Change the timezone of your server in two files: jns_server.lua and html/js/scri
 Mude a timezone do seu servidor em dois arquivos: jns_server.lua e html/js/scirpts.js
 
 ## Credit's / Créditos:
--- Vsync: Mudança de clima
+-- Vsync: Mudança de clima / Climate changes
 -- Me (XxStunner): Everything  else :)
